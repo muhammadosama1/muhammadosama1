@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Muhammad osama and I'm a senior iOS developer with 6+ years of experience building and maintaining iOS
+<p align="left">My name is Muhammad osama and I'm a senior iOS developer with 8+ years of experience building and maintaining iOS
 applications. Proficient in Swift and SwiftUI, with a passion for creating apps
 that scale eﬀectively. Focused on delivering maintainable code and user-
 friendly interfaces that grow with business needs.
